@@ -1,0 +1,10 @@
+{
+  "name": "discourse-heroicons-outline",
+  "description": "Heroicons2 outline icons for Discourse",
+  "about_url": null,
+  "license_url": null,
+  "component": true,
+  "assets": {
+    "icons-sprite": "/assets/icons-sprite.svg"
+  }
+}

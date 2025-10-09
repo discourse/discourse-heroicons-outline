@@ -126,6 +126,6 @@ function initIcons(api) {
 export default {
   name: "heroicons-outline",
   initialize() {
-    withPluginApi("0.10.1", initIcons);
+    withPluginApi(initIcons);
   },
 };
